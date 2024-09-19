@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vinit Sarvade</h1>
 <h3 align="center">A Fullstack Engineer</h3>
 
-- 🌱 I’m currently learning **Svelte, Rust**
+- 🌱 I’m currently learning **Svelte**
 
 <!-- - 👨‍💻 All of my projects are available at [https://vinit.dev](https://vinit.dev) -->
 
-- 💬 I have 7+ years of Fullstack Engineering experience and I specialize in building web and mobile applications with technologies like React, React Native, Vue, NodeJS, Golang, Postgres, MySQL, MongoDB, RabbitMQ, Redis etc. I'm also well-versed in managing and deploying applications to cloud platforms like AWS, DigitalOcean, Fly, Render etc. I have hands-on experience setting up code pipelines for automated deployments, and managing and configuring deployments to Kubernetes on AWS & Digitalocean.
+- 💬 I have 8+ years of Fullstack Engineering experience and I specialize in building web and mobile applications with technologies like React, React Native, Vue, NodeJS, Golang, Postgres, MySQL, MongoDB, RabbitMQ, Redis etc. I'm also well-versed in managing and deploying applications to cloud platforms like AWS, DigitalOcean, Fly, Render etc. I have hands-on experience setting up code pipelines for automated deployments, and managing and configuring deployments to Kubernetes on AWS & Digitalocean.
 
 - 📫 How to reach me **contact@vinit.dev**
 
